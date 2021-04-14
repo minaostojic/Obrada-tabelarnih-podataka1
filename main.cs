@@ -5,5 +5,6 @@ class MainClass {
     Console.WriteLine ("Hello World");
     test123
     proba
+    uzt
   }
 }
