@@ -5,5 +5,6 @@ class MainClass {
     Console.WriteLine ("Hello World");
     bgikbjkiguj
     test test
+    1234
   }
 }
