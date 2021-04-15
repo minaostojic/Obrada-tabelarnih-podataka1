@@ -2,7 +2,7 @@ using System;
 
 class MainClass {
   public static void Main (string[] args) {
-      StreamReader podaci = new StreamReader("ulaz.txt");
+    StreamReader podaci = new StreamReader("word.csv");
     string[,] matrica = new string[1000,6];
     int brojac=0;
     string s = podaci.ReadLine();
